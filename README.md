@@ -53,8 +53,8 @@ My journey so far has led me through diverse technologies, including JavaScript,
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OscarMaciel3799&show_icons=true&theme=algolia&locale=en&hide_border=true" alt="OscarMaciel3799" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarMaciel3799&show_icons=true&theme=algolia&layout=compact&hide_border=true" alt="OscarMaciel3799" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OscarMaciel3799&show_icons=true&theme=algolia&locale=en&hide_border=true" alt="OscarMaciel3799" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarMaciel3799&show_icons=true&theme=algolia&layout=compact&hide_border=true" alt="OscarMaciel3799" />
 
 </div>
 
