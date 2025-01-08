@@ -49,11 +49,11 @@ My journey so far has led me through diverse technologies, including JavaScript,
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </span>
-<!--
+
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OscarMaciel3799&show_icons=true&theme=algolia&locale=en&hide_border=true&include_all_commits=true&count_private=true&line_height=20" alt="OscarMaciel3799" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OscarMaciel3799&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&locale=en&line_height=20" alt="OscarMaciel3799" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OscarMaciel3799&show_icons=true&theme=algolia&locale=en&hide_border=true&include_all_commits=true&count_private=true&line_height=20" alt="OscarMaciel3799" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarMaciel3799&show_icons=true&theme=algolia&layout=compact&hide_border=true" alt="OscarMaciel3799" />
 </div>
--->
 
